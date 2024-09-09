@@ -1,0 +1,2 @@
+# Proyecto individual de electronica
+ *aqui se presenta el código fuente y toda la informacion relacionada con el proyecto individual del cursos de electrónica basica para ingeniería mecánica de la universidad de antioquia.*
